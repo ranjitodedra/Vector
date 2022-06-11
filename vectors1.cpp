@@ -51,3 +51,7 @@ int main()
 
     return 0;
 }
+
+// size() --> total number of element
+// capacity() --> maximum numeber of element that array can have 
+// max_size() --> maximum number of element that we can add in array according to memory size
