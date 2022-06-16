@@ -48,7 +48,6 @@ int main()
     { // way - 3 --> for each
         cout << x << ",";
     }
-
     return 0;
 }
 
