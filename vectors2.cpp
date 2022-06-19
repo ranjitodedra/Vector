@@ -22,7 +22,6 @@ int main()
     d.erase(d.begin()+2);
     d.erase(d.begin()+1,d.begin()+6);
 
-
     //size() , capacity()
     cout << d.size() << endl;
     cout << d.capacity() << endl;
